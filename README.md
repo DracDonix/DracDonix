@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DracDonix
+- 🧠  brain
+- 😜 comedian
+- 🍰 31.08. ////
+- 📚 Undergrad
