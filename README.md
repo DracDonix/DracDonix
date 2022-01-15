@@ -5,6 +5,8 @@
 
 ```js
 var DracDonix = {
+    "name": "Mehmet Ali"
+    "surname": "Açıkgöz"    
     "height": "1.80",
     "weight": "76",
     "age": "19",
