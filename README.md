@@ -11,8 +11,8 @@
 
 ```js
 var DracDonix = {
-    "name": "Mehmet Ali"
-    "surname": "Açıkgöz"    
+    "name": "DracDonix"
+    "surname": "-"    
     "height": "1.80",
     "weight": "76",
     "age": "19",
