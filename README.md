@@ -15,7 +15,7 @@ var DracDonix = {
     "surname": "-"    
     "height": "1.80",
     "weight": "76",
-    "age": "19",
+    "age": "20",
     "type": "human",
     "job": "undergrad",
     "sex": "male"
